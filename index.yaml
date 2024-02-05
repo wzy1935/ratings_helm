@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ratings-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-05T20:38:09.5411622+01:00"
+    description: Ratings application deployment
+    digest: ce8a74aef6ecef6d0947ae4a6bbdd77537073669103cf1ae0711a8c03dc4ec43
+    name: ratings-helm
+    type: application
+    urls:
+    - ratings-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-05T20:38:09.5406371+01:00"
